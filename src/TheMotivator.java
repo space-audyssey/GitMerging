@@ -10,12 +10,12 @@ public class TheMotivator {
 		else if (score > 70)
 			System.out.println("That's alright");
 		else if (score > 60)
-			System.out.println("That's abysmal");
+			System.out.println("That's abysmal.");
 		else
 			System.out.println("Well, what can I say?");
 	}
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
-		tm.feedback(70);
+		tm.feedback(80);
 	}
 }
