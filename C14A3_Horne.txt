@@ -1,0 +1,21 @@
+Author: Audrey Horne
+Exercise: C14A3
+
+*   formatMerge branch 'secondnewclass' "Merging two branches that have the addition of two different classes."
+|\  
+| * formatAdded new class called TheBubblyOne.
+* | formatAdded new class TheTerminator.
+|/  
+*   formatFixed conflicts between changemain and changemain2 branches to be ready for merge,
+|\  
+| * formatMade a conflicting change to main() for merging exercise purposes.
+* | formatChanged main() to get feedback for score of 70.
+|/  
+* formatAdded feedback for scores between 60 and 70.
+* formatAdded a feedback comment for scores between 70 and 80.
+*   formatFixed the merge conflict between master and differentgoodscore branch.
+|\  
+| * formatMade a conflicting change to what 'That's good' score should be.
+* | formatChanged 'That's good' score to be above 70.
+|/  
+* formatInitial commit with Baldwin's start code.
